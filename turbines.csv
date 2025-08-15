@@ -1,0 +1,6 @@
+turbineId,model,maxCapacityKW,farmId,latitude,longitude
+WT-101,Vestas-V112,3450,WF-01,57.123,-4.456
+WT-102,Vestas-V112,3450,WF-01,57.125,-4.459
+WT-103,Vestas-V112,3450,WF-01,57.127,-4.462
+WT-111,Siemens-G4,4000,WF-02,55.891,-1.598
+WT-112,Siemens-G4,4000,WF-02,55.893,-1.601

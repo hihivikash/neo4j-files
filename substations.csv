@@ -1,0 +1,4 @@
+substationId,name,voltage_kV,regionId
+SUB-W1,Westmount Main,345,REG-W
+SUB-W2,Maple Junction,138,REG-W
+SUB-E1,Eastgate Central,345,REG-E

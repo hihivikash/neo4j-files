@@ -1,0 +1,11 @@
+timestamp,entityId,eventType,value,unit
+2023-10-27T10:00:00Z,REG-W,WeatherForecast,High_Wind_Warning,
+2023-10-27T10:10:00Z,WT-101,GenerationReading,3100,kW
+2023-10-27T10:10:00Z,WT-102,GenerationReading,3150,kW
+2023-10-27T10:10:00Z,WT-111,GenerationReading,3800,kW
+2023-10-27T10:10:05Z,WT-101-Anemometer,SensorReading,14.5,m/s
+2023-10-27T10:10:05Z,WT-102-Anemometer,SensorReading,14.6,m/s
+2023-10-27T10:15:00Z,WT-111,GenerationReading,3850,kW
+2023-10-27T10:15:05Z,WT-101-Anemometer,SensorReading,14.8,m/s
+2023-10-27T10:15:05Z,WT-102-Anemometer,SensorReading,14.9,m/s
+2023-10-27T10:17:00Z,op-01,ControlInstruction,10,MW

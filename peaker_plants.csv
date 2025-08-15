@@ -1,0 +1,3 @@
+generatorId,name,type,capacityMW,rampRateMW_per_min,status,regionId
+PP-04,Westside Peaker,Gas,300,50,Online,REG-W
+PP-05,Northgate Power,Gas,500,40,Standby,REG-N
