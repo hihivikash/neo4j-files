@@ -1,0 +1,93 @@
+timestamp,eventType,entityId,value1,value2,status,reason
+2023-10-27T14:30:00Z,GridEvent,FD-20231027-1430,49.85,Major Gen Trip,N/A,N/A
+2023-10-27T14:29:59Z,TelemetryReading,GEN-005,250.0,N/A,N/A,N/A
+2023-10-27T14:30:05Z,DispatchInstruction,DI-98765,GEN-005,50,N/A,FD-20231027-1430
+2023-10-27T14:30:05.400Z,TelemetryReading,GEN-005,280.0,N/A,N/A,N/A
+2023-10-27T14:30:05.700Z,TelemetryReading,GEN-005,301.2,N/A,N/A,N/A
+2023-10-27T14:30:06.100Z,TelemetryReading,GEN-005,302.1,N/A,N/A,N/A
+2023-10-27T14:30:07.000Z,TelemetryReading,GEN-005,302.3,N/A,N/A,N/A
+2023-09-15T11:00:00Z,DispatchInstruction,DI-10001,GEN-003,100,Delivered,High Demand
+2023-09-15T11:00:10Z,TelemetryReading,GEN-003,500.0,N/A,N/A,N/A
+2023-09-15T11:02:00Z,TelemetryReading,GEN-003,601.0,N/A,N/A,N/A
+2023-09-21T18:30:00Z,DispatchInstruction,DI-10002,GEN-003,100,Skipped,High Demand
+2023-09-21T18:30:10Z,TelemetryReading,GEN-003,510.0,N/A,N/A,N/A
+2023-09-21T18:32:00Z,TelemetryReading,GEN-003,512.0,N/A,N/A,N/A
+2023-10-02T19:00:00Z,DispatchInstruction,DI-10003,GEN-003,120,Delivered,High Demand
+2023-10-18T17:45:00Z,DispatchInstruction,DI-10004,GEN-003,80,Delivered,High Demand
+2023-09-01T17:00:00Z,DispatchInstruction,DI-10005,GEN-007,50,Delivered,High Demand
+2023-09-02T18:00:00Z,DispatchInstruction,DI-10006,GEN-007,50,Delivered,High Demand
+2023-09-03T19:00:00Z,DispatchInstruction,DI-10007,GEN-007,50,Delivered,High Demand
+2023-09-04T17:30:00Z,DispatchInstruction,DI-10008,GEN-007,50,Delivered,High Demand
+2023-09-05T18:30:00Z,DispatchInstruction,DI-10009,GEN-007,50,Delivered,High Demand
+2023-09-06T19:30:00Z,DispatchInstruction,DI-10010,GEN-007,50,Delivered,High Demand
+2023-09-07T17:45:00Z,DispatchInstruction,DI-10011,GEN-007,50,Delivered,High Demand
+2023-09-08T18:45:00Z,DispatchInstruction,DI-10012,GEN-007,50,Delivered,High Demand
+2023-09-09T19:45:00Z,DispatchInstruction,DI-10013,GEN-007,50,Delivered,High Demand
+2023-09-10T17:15:00Z,DispatchInstruction,DI-10014,GEN-007,50,Partial_Delivery,High Demand
+2023-09-11T18:15:00Z,DispatchInstruction,DI-10015,GEN-009,100,Delivered,High Demand
+2023-09-12T19:15:00Z,DispatchInstruction,DI-10016,GEN-009,100,Delivered,High Demand
+2023-09-13T17:05:00Z,DispatchInstruction,DI-10017,GEN-009,100,Delivered,High Demand
+2023-09-14T18:05:00Z,DispatchInstruction,DI-10018,GEN-009,100,Delivered,High Demand
+2023-09-15T19:05:00Z,DispatchInstruction,DI-10019,GEN-009,100,Skipped,High Demand
+2023-09-16T17:55:00Z,DispatchInstruction,DI-10020,GEN-009,100,Skipped,High Demand
+2023-09-17T18:55:00Z,DispatchInstruction,DI-10021,GEN-009,100,Skipped,High Demand
+2023-09-18T19:55:00Z,DispatchInstruction,DI-10022,GEN-009,100,Delivered,High Demand
+2023-09-19T17:25:00Z,DispatchInstruction,DI-10023,GEN-009,100,Delivered,High Demand
+2023-09-20T18:25:00Z,DispatchInstruction,DI-10024,GEN-009,100,Delivered,High Demand
+2023-09-21T19:25:00Z,DispatchInstruction,DI-10025,GEN-013,150,Delivered,High Demand
+2023-09-22T17:35:00Z,DispatchInstruction,DI-10026,GEN-013,150,Delivered,High Demand
+2023-09-23T18:35:00Z,DispatchInstruction,DI-10027,GEN-013,150,Delivered,High Demand
+2023-09-24T19:35:00Z,DispatchInstruction,DI-10028,GEN-013,150,Delivered,High Demand
+2023-09-25T17:45:00Z,DispatchInstruction,DI-10029,GEN-013,150,Partial_Delivery,High Demand
+2023-09-26T18:45:00Z,DispatchInstruction,DI-10030,GEN-013,150,Delivered,High Demand
+2023-09-27T19:45:00Z,DispatchInstruction,DI-10031,GEN-016,80,Delivered,High Demand
+2023-09-28T17:15:00Z,DispatchInstruction,DI-10032,GEN-016,80,Delivered,High Demand
+2023-09-29T18:15:00Z,DispatchInstruction,DI-10033,GEN-016,80,Delivered,High Demand
+2023-09-30T19:15:00Z,DispatchInstruction,DI-10034,GEN-016,80,Delivered,High Demand
+2023-10-01T17:05:00Z,DispatchInstruction,DI-10035,GEN-018,120,Delivered,High Demand
+2023-10-02T18:05:00Z,DispatchInstruction,DI-10036,GEN-018,120,Delivered,High Demand
+2023-10-03T19:05:00Z,DispatchInstruction,DI-10037,GEN-018,120,Skipped,High Demand
+2023-10-04T17:55:00Z,DispatchInstruction,DI-10038,GEN-018,120,Delivered,High Demand
+2023-10-05T18:55:00Z,DispatchInstruction,DI-10039,GEN-018,120,Delivered,High Demand
+2023-10-06T19:55:00Z,DispatchInstruction,DI-10040,GEN-018,120,Delivered,High Demand
+2023-10-07T17:25:00Z,DispatchInstruction,DI-10041,GEN-023,200,Delivered,High Demand
+2023-10-08T18:25:00Z,DispatchInstruction,DI-10042,GEN-023,200,Delivered,High Demand
+2023-10-09T19:25:00Z,DispatchInstruction,DI-10043,GEN-023,200,Delivered,High Demand
+2023-10-10T17:35:00Z,DispatchInstruction,DI-10044,GEN-023,200,Partial_Delivery,High Demand
+2023-10-11T18:35:00Z,DispatchInstruction,DI-10045,GEN-023,200,Delivered,High Demand
+2023-10-12T19:35:00Z,DispatchInstruction,DI-10046,GEN-025,150,Delivered,High Demand
+2_023-10-13T17:45:00Z,DispatchInstruction,DI-10047,GEN-025,150,Delivered,High Demand
+2023-10-14T18:45:00Z,DispatchInstruction,DI-10048,GEN-025,150,Skipped,High Demand
+2023-10-15T19:45:00Z,DispatchInstruction,DI-10049,GEN-025,150,Delivered,High Demand
+2023-10-16T17:15:00Z,DispatchInstruction,DI-10050,GEN-025,150,Delivered,High Demand
+2023-10-17T18:15:00Z,DispatchInstruction,DI-10051,GEN-002,100,Delivered,High Demand
+2023-10-18T19:15:00Z,DispatchInstruction,DI-10052,GEN-002,100,Delivered,High Demand
+2023-10-19T17:05:00Z,DispatchInstruction,DI-10053,GEN-002,100,Delivered,High Demand
+2023-10-20T18:05:00Z,DispatchInstruction,DI-10054,GEN-002,100,Delivered,High Demand
+2023-10-21T19:05:00Z,DispatchInstruction,DI-10055,GEN-002,100,Delivered,High Demand
+2023-10-22T17:55:00Z,DispatchInstruction,DI-10056,GEN-008,120,Delivered,High Demand
+2023-10-23T18:55:00Z,DispatchInstruction,DI-10057,GEN-008,120,Delivered,High Demand
+2023-10-24T19:55:00Z,DispatchInstruction,DI-10058,GEN-008,120,Delivered,High Demand
+2023-10-25T17:25:00Z,DispatchInstruction,DI-10059,GEN-008,120,Skipped,High Demand
+2023-10-26T18:25:00Z,DispatchInstruction,DI-10060,GEN-008,120,Delivered,High Demand
+2023-08-01T10:00:00Z,DispatchInstruction,DI-20001,GEN-006,50,Delivered,Frequency Correction
+2023-08-01T10:00:02Z,TelemetryReading,GEN-006,0.0,N/A,N/A,N/A
+2023-08-01T10:00:03Z,TelemetryReading,GEN-006,50.1,N/A,N/A,N/A
+2023-08-02T11:30:00Z,DispatchInstruction,DI-20002,GEN-015,100,Delivered,Frequency Correction
+2023-08-02T11:30:02Z,TelemetryReading,GEN-015,-20.0,N/A,N/A,N/A
+2023-08-02T11:30:03Z,TelemetryReading,GEN-015,80.5,N/A,N/A,N/A
+2023-08-03T14:00:00Z,DispatchInstruction,DI-20003,GEN-022,75,Delivered,Frequency Correction
+2023-08-03T14:00:02Z,TelemetryReading,GEN-022,10.0,N/A,N/A,N/A
+2023-08-03T14:00:03Z,TelemetryReading,GEN-022,85.2,N/A,N/A,N/A
+2023-08-04T09:15:00Z,DispatchInstruction,DI-20004,GEN-006,50,Delivered,Frequency Correction
+2023-08-05T16:45:00Z,DispatchInstruction,DI-20005,GEN-015,100,Delivered,Frequency Correction
+2023-08-06T12:00:00Z,DispatchInstruction,DI-20006,GEN-022,75,Skipped,Frequency Correction
+2023-08-07T20:00:00Z,DispatchInstruction,DI-20007,GEN-006,50,Delivered,Frequency Correction
+2023-08-08T21:00:00Z,DispatchInstruction,DI-20008,GEN-015,100,Partial_Delivery,Frequency Correction
+2023-08-09T22:00:00Z,DispatchInstruction,DI-20009,GEN-022,75,Delivered,Frequency Correction
+2023-08-10T10:30:00Z,DispatchInstruction,DI-20010,GEN-006,50,Delivered,Frequency Correction
+2023-08-11T11:30:00Z,DispatchInstruction,DI-20011,GEN-015,100,Delivered,Frequency Correction
+2023-08-12T12:30:00Z,DispatchInstruction,DI-20012,GEN-022,75,Delivered,Frequency Correction
+2023-08-13T13:30:00Z,DispatchInstruction,DI-20013,GEN-006,50,Delivered,Frequency Correction
+2023-08-14T14:30:00Z,DispatchInstruction,DI-20014,GEN-015,100,Delivered,Frequency Correction
+2023-08-15T15:30:00Z,DispatchInstruction,DI-20015,GEN-022,75,Delivered,Frequency Correction

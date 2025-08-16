@@ -1,0 +1,7 @@
+serviceId,name,type,response_time_sec
+BS-DC,Dynamic Containment,Post-Fault,1
+BS-DM,Dynamic Moderation,Pre-Fault,2
+BS-DR,Dynamic Regulation,Pre-Fault,10
+BS-FFR,Firm Frequency Response,Post-Fault,10
+BS-FR,Fast Reserve,Post-Fault,120
+BS-STORR,Short Term Operating Reserve,Reserve,1200

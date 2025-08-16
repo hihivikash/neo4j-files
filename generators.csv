@@ -1,0 +1,26 @@
+generatorId,name,type,capacityMW,companyId,regionId
+GEN-001,Sizewell B-1,Nuclear,1200,COMP-03,REG-E
+GEN-002,Drax-3,Biomass,645,COMP-01,REG-N
+GEN-003,Pembroke-1,Gas,700,COMP-04,REG-W
+GEN-004,Hornsea One-A,Wind,400,COMP-05,REG-N
+GEN-005,Dinorwig-1,Hydro Pump Storage,300,COMP-01,REG-W
+GEN-006,Gresham House BESS-1,Battery,50,COMP-02,REG-E
+GEN-007,West Burton B-1,Gas,500,COMP-03,REG-N
+GEN-008,Drax-4,Biomass,645,COMP-01,REG-N
+GEN-009,Pembroke-2,Gas,700,COMP-04,REG-W
+GEN-010,Fiddlers Ferry,Solar,150,COMP-04,REG-N
+GEN-011,Beatrice-A,Wind,300,COMP-03,REG-N
+GEN-012,Cruachan-1,Hydro Pump Storage,220,COMP-02,REG-N
+GEN-013,Littlebrook,Gas,400,COMP-04,REG-E
+GEN-014,London Array-A,Wind,350,COMP-05,REG-E
+GEN-015,Minety BESS,Battery,100,COMP-01,REG-W
+GEN-016,Peterhead,Gas,400,COMP-02,REG-N
+GEN-017,Heysham-1,Nuclear,1150,COMP-03,REG-N
+GEN-018,Keadby 2,Gas,840,COMP-02,REG-N
+GEN-019,Dogger Bank-A,Wind,600,COMP-03,REG-N
+GEN-020,Pen y Cymoedd,Wind,228,COMP-04,REG-W
+GEN-021,Dudgeon-A,Wind,210,COMP-05,REG-E
+GEN-022,KAP BESS,Battery,75,COMP-02,REG-W
+GEN-023,Grain,Gas,650,COMP-02,REG-E
+GEN-024,Drax-5,Biomass,645,COMP-01,REG-N
+GEN-025,Seabank,Gas,550,COMP-04,REG-W
